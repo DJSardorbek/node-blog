@@ -1,3 +1,3 @@
 # node-blog
 
-Blog app, you can post / read blogs
+This app is for creating and reading blogs. Users need to register and log in to create their own blogs.
